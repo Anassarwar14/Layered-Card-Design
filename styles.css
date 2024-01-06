@@ -152,9 +152,10 @@ li > *{
 }
 
 .scores > li::before{
-    align-self: center;
-    margin-right: -20%;
+    align-self:center;
+    margin-right: -16%;
     margin-left: 4%;
+    margin-top: 2%;
 }
 
 .score_num{
